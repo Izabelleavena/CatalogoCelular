@@ -1,0 +1,172 @@
+#nav{
+    background-color: rgb(131, 124, 124);
+    padding: 10px;
+    margin: 0px;
+    width: 100%;
+  
+    
+
+}
+
+ .row a{
+     text-decoration: none !important;
+     color: rgb(83, 57, 38);
+     height: 20px;
+     width: 200px;
+     margin: 20px;
+     
+     
+ }
+ .bi-search{ 
+     font-size: 20px;
+     cursor: pointer;
+     padding: 5px;
+     float: right;
+ }
+ 
+
+ input{
+    background-color: rgb(224, 218, 191);
+    border-radius: 17px;
+    padding: 5px;
+    box-shadow: none;
+    border:none;
+    float: right;
+ }
+ 
+ input:hover{
+     transition: 1.0s;
+     background-color:rgb(216, 206, 158);
+ }
+
+.bloco-informações{
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: black 3px 2px 3px;
+    padding: 20px;
+    width: 250px;
+    height: 170px; 
+    margin: 30px;
+  
+    
+
+}
+.imagem-principal{
+    background-image: url(/1600722827_banner-xiaommi.png.png);
+    border-radius: 20px;
+    box-shadow: black 5px 3px 5px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    height: 500px;
+
+}
+
+ a.btn{
+    text-decoration: none;
+    border-radius: 0px;
+    background-color: #25282E;
+    color: #fff;
+    padding: 0px 14px;
+   text-align: center;
+   margin: 10px 10px 10px 0px;
+   width: 100px;
+}
+
+.bnt:hover{
+    background-color: #333;
+    color: #fff;
+}
+ 
+
+#img-meizu{
+    background-image: url(/meizu.jpg);
+}
+
+#img-samsung{
+    background-image: url(/sansung.webp);
+}
+
+#img-motorola-xr{
+    background-image: url(/motorola.jpg);
+}
+
+#img-motorolaG{
+    background-image: url(/motorola\ 2.jpg);
+}
+
+#img-iphone{
+    background-image: url(/iphone.jpg);
+}
+
+.imagem-galeria{
+    height: 230px;
+    border-radius: 30px;
+    box-shadow: black 3px 1px 3px;
+    border:black 2px solid;
+    cursor: pointer;
+}
+
+.imagem-galeria:hover{
+    height: 300px;
+    
+    transition: 1s;
+ 
+
+}
+
+
+.col-12 .col-md-6{
+    width: 600px;
+
+    margin-bottom: 40px;
+
+}
+
+#galeria{
+    padding: 20px;
+}
+
+a.comprar{
+    width: 130px;
+    height: 30px;
+    background-color: rgb(85, 81, 81);
+    color: white;
+    border-radius: 3px;
+    align-items: center;
+
+
+}
+i{
+    margin-left: 5px;
+}
+ 
+footer{
+    border-top: 1px solid #25282E;
+    padding: 30px;
+    height: 250px;
+    margin-top: 100px;
+    
+
+    
+}
+
+ footer i {
+     font-size: 20px;
+ }
+
+ #social-icons-container{
+     padding: 25px;
+ }
+
+ #social-icons-container div{
+     text-align: center;
+ }
+
+ footer p{
+     text-align: center;
+     margin: 20px;
+ } 
+
+ a:hover i{
+     color: #C1B696;
+ }
