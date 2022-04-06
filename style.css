@@ -3,9 +3,6 @@
     padding: 10px;
     margin: 0px;
     width: 100%;
-  
-    
-
 }
 
  .row a{
@@ -14,7 +11,6 @@
      height: 20px;
      width: 200px;
      margin: 20px;
-     
      
  }
  .bi-search{ 
@@ -52,7 +48,7 @@
 
 }
 .imagem-principal{
-    background-image: url(/1600722827_banner-xiaommi.png.png);
+    background-image: url(/img/1600722827_banner-xiaommi.png.png);
     border-radius: 20px;
     box-shadow: black 5px 3px 5px;
     margin-top: 20px;
@@ -79,23 +75,23 @@
  
 
 #img-meizu{
-    background-image: url(meizu.jpg);
+    background-image: url(/img/meizu.jpg);
 }
 
 #img-samsung{
-    background-image: url(sansung.webp);
+    background-image: url(/img/sansung.webp);
 }
 
 #img-motorola-xr{
-    background-image: url(motorola.jpg);
+    background-image: url(/img/motorola.jpg);
 }
 
 #img-motorolaG{
-    background-image: url(motorola2.jpg);
+    background-image: url(/img/motorola2.jpg);
 }
 
 #img-iphone{
-    background-image: url(iphone.jpg);
+    background-image: url(/img/iphone.jpg);
 }
 
 .imagem-galeria{
