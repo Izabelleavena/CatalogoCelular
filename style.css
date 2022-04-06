@@ -79,23 +79,23 @@
  
 
 #img-meizu{
-    background-image: url(/meizu.jpg);
+    background-image: url(meizu.jpg);
 }
 
 #img-samsung{
-    background-image: url(/sansung.webp);
+    background-image: url(sansung.webp);
 }
 
 #img-motorola-xr{
-    background-image: url(/motorola.jpg);
+    background-image: url(motorola.jpg);
 }
 
 #img-motorolaG{
-    background-image: url(/motorola\ 2.jpg);
+    background-image: url(motorola2.jpg);
 }
 
 #img-iphone{
-    background-image: url(/iphone.jpg);
+    background-image: url(iphone.jpg);
 }
 
 .imagem-galeria{
